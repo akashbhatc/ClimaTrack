@@ -1,3 +1,7 @@
+This is a #progressive web app -
+for live weather updates of your city
+created with open weather api for current weather data 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
